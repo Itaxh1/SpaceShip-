@@ -1,8 +1,5 @@
-<h1>
 
-Space MX 
-
-<h1> 
+==Space MX  
 <p>
 A basic #C programming game without “graphics.h” 
 The code listens to the keystrokes and move the space ship 
