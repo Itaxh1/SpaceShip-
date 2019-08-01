@@ -4,6 +4,7 @@
 #include<string.h>
 #include<conio.h>
 #include<stdlib.h>
+#include<iostream.h>
 xp[20],yp[20];
 void bar(int z)
 {
